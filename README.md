@@ -31,6 +31,7 @@ The idea came from observing elderly people in my village experiencing difficult
 
 ### Original Prototype
 
+![Original Smart Ultrasonic Walking Stick](images/DIY%20Arduino%20Smart%20Cane%20Prototype.jpeg)
 
 **Note:** The original prototype and source code are no longer available. The code has been rewritten from my recollection.
 
