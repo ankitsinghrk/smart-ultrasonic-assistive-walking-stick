@@ -31,7 +31,6 @@ The idea came from observing elderly people in my village experiencing difficult
 
 ### Original Prototype
 
-![Original Smart Ultrasonic Assistive Walking Stick](original-prototype.png)
 
 **Note:** The original prototype and source code are no longer available. The code has been rewritten from my recollection.
 
