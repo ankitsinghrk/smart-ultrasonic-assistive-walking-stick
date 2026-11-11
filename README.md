@@ -28,9 +28,12 @@ The idea came from observing elderly people in my village experiencing difficult
 - Demonstrated the working prototype to a person in my village.
 
 ## 6. Project Documentation
-The original prototype photograph will be included in this repository.
 
-**Note:** The original prototype and source code are no longer available. The code will be documented again from my recollection.
+### Original Prototype
+
+![Original Smart Ultrasonic Assistive Walking Stick](original-prototype.png)
+
+**Note:** The original prototype and source code are no longer available. The code has been rewritten from my recollection.
 
 ## 7. Learning Outcomes
 This project introduced me to embedded programming, ultrasonic sensing, basic electronics, and practical problem-solving.
